@@ -1,6 +1,7 @@
 # kafka-consumer-then-data-to-redis
 
 Code to consume data from kafka and then inserting to redis.
+This code also contains code to extract data from json and create jsonObject or json string 
 
 ### Scala version - 2.11
 
