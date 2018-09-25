@@ -6,28 +6,28 @@ Code to consume data from kafka and then inserting to redis.
 
 ## Dependencies
 
-* [Spark-core Dependency :]
+* Spark-core Dependency :
 		<dependency>
 			<groupId>org.apache.spark</groupId>
 			<artifactId>spark-core_2.11</artifactId>
 			<version>2.3.0</version>
 		</dependency>
 		
-* [Spark-streaming Dependency :]
+* Spark-streaming Dependency :
 		<dependency>
 			<groupId>org.apache.spark</groupId>
 			<artifactId>spark-streaming_2.11</artifactId>
 			<version>2.3.0</version>
 		</dependency>
 	  
-* [Kafka Dependency :]
+* Kafka Dependency :
 		<dependency>
 			<groupId>org.apache.spark</groupId>
 			<artifactId>spark-streaming-kafka-0-10_2.11</artifactId>
 			<version>2.3.0</version>
 		</dependency>
 
-* [Redis Dependency :]	
+* Redis Dependency :
 		<dependency>
 			<groupId>redis.clients</groupId>
 			<artifactId>jedis</artifactId>
