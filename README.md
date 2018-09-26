@@ -2,7 +2,7 @@
 
 Code to consume data from kafka and then inserting to redis.
 
-This code also contains code to extract data from json and create jsonObject or json string 
+This code also contains code to extract data from json and create jsonObject or json string using google gson library
 
 ### Scala version - 2.11
 
